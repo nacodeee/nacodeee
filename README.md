@@ -4,7 +4,7 @@
 ## 👋About me:
 
 - 🔭 Free to work<br>
-- 🌱 Improving **JavaScript** and **React**. Learning **PHP**<br>
+- 🌱 Improving **JavaScript** and **React**. Learning **GO**<br>
 - 💬 Feel free to ask me about **anything**.  I am always happy to **learn more**.<br>
 - 📫 You can reach me at contacto@nacode.site.<br>
 - ⚡ Visit my web: https://nacode.site/.<br> 

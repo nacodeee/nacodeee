@@ -1,5 +1,5 @@
 
-![Github readme banner]([https://media.licdn.com/dms/image/D4E16AQGrtO9QKQUqcg/profile-displaybackgroundimage-shrink_350_1400/0/1711929326822?e=1718236800&v=beta&t=7eKcswph2ugFbPKMor9wFWlcG0NAQ3ICX_VP8W3V78E](https://i.imgur.com/F8Y7xsl.png))
+![Github readme banner](https://i.imgur.com/F8Y7xsl.png)
 
 ## 👋About me:
 
